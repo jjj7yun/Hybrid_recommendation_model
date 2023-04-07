@@ -1,0 +1,1260 @@
+,filename,userid,title,rating,content
+0,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,"0                  한 게으른 시인의 이야기
+1                     야간 경비원의 일기
+2                          노멀 피플
+3                          살림 비용
+4                      잘돼가? 무엇이든
+5                        안녕 주정뱅이
+6                       어린이라는 세계
+7                          최선의 삶
+8                 땡스 갓, 잇츠 프라이데이
+9                             레몬
+10                       아무튼, 예능
+11                   지극히 문학적인 취향
+12              맥스 테그마크의 라이프 3.0
+13                         채식주의자
+14                       이기적 유전자
+15                         아메리카나
+16                         사신 치바
+17                      호밀밭의 파수꾼
+18                        기억 전달자
+19                            화차
+20                           종이달
+21                   여성 혐오를 혐오한다
+22                          도플갱어
+23         우리는 모두 페미니스트가 되어야 합니다
+24          안녕하세요, 하느님? 저 마거릿이에요
+25                   해리 포터와 불의 잔
+26               해리 포터와 아즈카반의 죄수
+27                  해리 포터와 비밀의 방
+28                 해리 포터와 마법사의 돌
+29                            속죄
+30                          무진기행
+31          어른이 되어 더 큰 혼란이 시작되었다
+32    기술복제시대의 예술작품 / 사진의 작은 역사 외
+33                        모래 사나이
+34           안드로이드는 전기양의 꿈을 꾸는가?
+Name: LABEL-2, dtype: object","0     평가함 ★ 4.0
+1     평가함 ★ 4.0
+2     평가함 ★ 3.5
+3     평가함 ★ 4.5
+4     평가함 ★ 3.5
+5     평가함 ★ 4.5
+6     평가함 ★ 4.5
+7     평가함 ★ 4.0
+8     평가함 ★ 3.0
+9     평가함 ★ 3.5
+10    평가함 ★ 4.0
+11    평가함 ★ 5.0
+12    평가함 ★ 4.0
+13    평가함 ★ 4.5
+14    평가함 ★ 4.5
+15    평가함 ★ 5.0
+16    평가함 ★ 3.5
+17    평가함 ★ 3.5
+18    평가함 ★ 4.5
+19    평가함 ★ 4.0
+20    평가함 ★ 4.0
+21    평가함 ★ 4.0
+22    평가함 ★ 3.5
+23    평가함 ★ 3.5
+24    평가함 ★ 4.5
+25    평가함 ★ 5.0
+26    평가함 ★ 4.0
+27    평가함 ★ 4.5
+28    평가함 ★ 4.5
+29    평가함 ★ 4.5
+30    평가함 ★ 4.0
+31    평가함 ★ 3.0
+32    평가함 ★ 4.5
+33    평가함 ★ 3.5
+34    평가함 ★ 4.0
+Name: LABEL-3, dtype: object",books
+1,박지수:contents:books:ratings.xlsx,박지수,"0                         인체 구조 교과서
+1                              더 해빙
+2                             인생 수업
+3                          아무튼, 떡볶이
+4                         궤도의 과학 허세
+                   ...             
+166                            사피엔스
+167                        호밀밭의 파수꾼
+168    지적 대화를 위한 넓고 얕은 지식 : 현실 너머 편
+169                       아프니까 청춘이다
+170            사랑하라 한번도 상처받지 않은 것처럼
+Name: LABEL-2, Length: 171, dtype: object","0      평가함 ★ 3.0
+1      평가함 ★ 3.5
+2      평가함 ★ 4.5
+3      평가함 ★ 4.5
+4      평가함 ★ 3.5
+         ...    
+166    평가함 ★ 5.0
+167    평가함 ★ 3.5
+168    평가함 ★ 3.0
+169    평가함 ★ 2.0
+170    평가함 ★ 4.0
+Name: LABEL-3, Length: 171, dtype: object",books
+2,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"0               인간실격
+1      물고기는 존재하지 않는다
+2          어둠에서 벗어나기
+3            위험한 과학책
+4           헛간, 불태우다
+           ...      
+767             하악하악
+768           오체 불만족
+769           드래곤 라자
+770         소용돌이 합본판
+771         마시멜로 이야기
+Name: LABEL-2, Length: 772, dtype: object","0      평가함 ★ 4.5
+1      평가함 ★ 3.5
+2      평가함 ★ 4.0
+3      평가함 ★ 3.5
+4      평가함 ★ 4.0
+         ...    
+767    평가함 ★ 3.0
+768    평가함 ★ 3.0
+769    평가함 ★ 3.5
+770    평가함 ★ 4.0
+771    평가함 ★ 2.5
+Name: LABEL-3, Length: 772, dtype: object",books
+3,진:contents:books:ratings.xlsx,진,"0              하늘과 바람과 별과 시
+1                   댈러웨이 부인
+2     2020 제11회 젊은작가상 수상작품집
+3                  양을 쫓는 모험
+4                 일의 기쁨과 슬픔
+5              빛과 물질에 관한 이론
+6                 죽음의 수용소에서
+7          카타리나 블룸의 잃어버린 명예
+8                        모순
+9         이반 데니소비치, 수용소의 하루
+10                   가면의 고백
+11               나목.도둑맞은 가난
+12                   사랑의 기술
+13                GV 빌런 고태경
+14                   백년의 고독
+15                      스토너
+16           우연의 질병, 필연의 죽음
+17                방금 떠나온 세계
+18                       마음
+19                 두 도시 이야기
+20                   침이 고인다
+21                      픽션들
+22                 작별하지 않는다
+23                 이상 소설 전집
+24              바람의 노래를 들어라
+25             콜 미 바이 유어 네임
+26                   일인칭 단수
+27                 지구 끝의 온실
+28             도시는 무엇으로 사는가
+29            21세기 먼나라 이웃나라
+30                  자기 앞의 생
+31            조제와 호랑이와 물고기들
+32                   벌레 이야기
+33                  시선으로부터,
+34        창문 넘어 도망친 100세 노인
+35                   웨하스 의자
+Name: LABEL-2, dtype: object","0     평가함 ★ 4.0
+1     평가함 ★ 4.0
+2     평가함 ★ 4.0
+3     평가함 ★ 4.0
+4     평가함 ★ 4.0
+5     평가함 ★ 4.5
+6     평가함 ★ 4.5
+7     평가함 ★ 3.5
+8     평가함 ★ 5.0
+9     평가함 ★ 4.5
+10    평가함 ★ 4.0
+11    평가함 ★ 4.0
+12    평가함 ★ 4.0
+13    평가함 ★ 4.5
+14    평가함 ★ 4.5
+15    평가함 ★ 4.5
+16    평가함 ★ 4.5
+17    평가함 ★ 4.5
+18    평가함 ★ 4.0
+19    평가함 ★ 4.5
+20    평가함 ★ 4.5
+21    평가함 ★ 4.0
+22    평가함 ★ 4.0
+23    평가함 ★ 4.0
+24    평가함 ★ 3.0
+25    평가함 ★ 4.0
+26    평가함 ★ 4.0
+27    평가함 ★ 4.5
+28    평가함 ★ 3.5
+29    평가함 ★ 4.0
+30    평가함 ★ 4.0
+31    평가함 ★ 3.5
+32    평가함 ★ 4.0
+33    평가함 ★ 3.0
+34    평가함 ★ 4.5
+35    평가함 ★ 4.5
+Name: LABEL-3, dtype: object",books
+4,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,"0                  소립자
+1                 모비 딕
+2             열두 띠 이야기
+3                현대시작법
+4          철학카페에서 시 읽기
+5               이별의 능력
+6             오늘 아침 단어
+7        어서오세요, 305호에!
+8     조국 현상을 말한다 - 개정판
+9              몰아 쓴 일기
+10            불가능한 대화들
+11         황현산의 사소한 부탁
+12         서울 1964년 겨울
+13              상처적 체질
+14       개를 데리고 다니는 부인
+15              눈사람 여관
+16            선천적 얼간이들
+17                   성
+Name: LABEL-2, dtype: object","0     평가함 ★ 4.5
+1     평가함 ★ 3.5
+2     평가함 ★ 3.0
+3     평가함 ★ 4.0
+4     평가함 ★ 3.5
+5     평가함 ★ 3.5
+6     평가함 ★ 3.0
+7     평가함 ★ 3.5
+8     평가함 ★ 2.5
+9     평가함 ★ 3.0
+10    평가함 ★ 3.0
+11    평가함 ★ 3.5
+12    평가함 ★ 3.0
+13    평가함 ★ 3.0
+14    평가함 ★ 3.0
+15    평가함 ★ 3.0
+16    평가함 ★ 3.0
+17    평가함 ★ 3.5
+Name: LABEL-3, dtype: object",books
+5,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,한 게으른 시인의 이야기,평가함 ★ 4.0,books
+6,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,야간 경비원의 일기,평가함 ★ 4.0,books
+7,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,노멀 피플,평가함 ★ 3.5,books
+8,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,살림 비용,평가함 ★ 4.5,books
+9,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,잘돼가? 무엇이든,평가함 ★ 3.5,books
+10,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,안녕 주정뱅이,평가함 ★ 4.5,books
+11,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,어린이라는 세계,평가함 ★ 4.5,books
+12,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,최선의 삶,평가함 ★ 4.0,books
+13,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,"땡스 갓, 잇츠 프라이데이",평가함 ★ 3.0,books
+14,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,레몬,평가함 ★ 3.5,books
+15,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,"아무튼, 예능",평가함 ★ 4.0,books
+16,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,지극히 문학적인 취향,평가함 ★ 5.0,books
+17,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,맥스 테그마크의 라이프 3.0,평가함 ★ 4.0,books
+18,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,채식주의자,평가함 ★ 4.5,books
+19,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,이기적 유전자,평가함 ★ 4.5,books
+20,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,아메리카나,평가함 ★ 5.0,books
+21,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,사신 치바,평가함 ★ 3.5,books
+22,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,호밀밭의 파수꾼,평가함 ★ 3.5,books
+23,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,기억 전달자,평가함 ★ 4.5,books
+24,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,화차,평가함 ★ 4.0,books
+25,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,종이달,평가함 ★ 4.0,books
+26,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,여성 혐오를 혐오한다,평가함 ★ 4.0,books
+27,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,도플갱어,평가함 ★ 3.5,books
+28,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,우리는 모두 페미니스트가 되어야 합니다,평가함 ★ 3.5,books
+29,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,"안녕하세요, 하느님? 저 마거릿이에요",평가함 ★ 4.5,books
+30,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,해리 포터와 불의 잔,평가함 ★ 5.0,books
+31,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,해리 포터와 아즈카반의 죄수,평가함 ★ 4.0,books
+32,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,해리 포터와 비밀의 방,평가함 ★ 4.5,books
+33,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,해리 포터와 마법사의 돌,평가함 ★ 4.5,books
+34,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,속죄,평가함 ★ 4.5,books
+35,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,무진기행,평가함 ★ 4.0,books
+36,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,어른이 되어 더 큰 혼란이 시작되었다,평가함 ★ 3.0,books
+37,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,기술복제시대의 예술작품 / 사진의 작은 역사 외,평가함 ★ 4.5,books
+38,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,모래 사나이,평가함 ★ 3.5,books
+39,4WLxZmblW5roA:contents:books:ratings.xlsx,4WLxZmblW5roA,안드로이드는 전기양의 꿈을 꾸는가?,평가함 ★ 4.0,books
+40,박지수:contents:books:ratings.xlsx,박지수,인체 구조 교과서,평가함 ★ 3.0,books
+41,박지수:contents:books:ratings.xlsx,박지수,더 해빙,평가함 ★ 3.5,books
+42,박지수:contents:books:ratings.xlsx,박지수,인생 수업,평가함 ★ 4.5,books
+43,박지수:contents:books:ratings.xlsx,박지수,"아무튼, 떡볶이",평가함 ★ 4.5,books
+44,박지수:contents:books:ratings.xlsx,박지수,궤도의 과학 허세,평가함 ★ 3.5,books
+45,박지수:contents:books:ratings.xlsx,박지수,에이트,평가함 ★ 2.5,books
+46,박지수:contents:books:ratings.xlsx,박지수,채링크로스 84번지,평가함 ★ 4.5,books
+47,박지수:contents:books:ratings.xlsx,박지수,알츠하이머의 종말,평가함 ★ 5.0,books
+48,박지수:contents:books:ratings.xlsx,박지수,상관없는 거 아닌가?,평가함 ★ 2.0,books
+49,박지수:contents:books:ratings.xlsx,박지수,왜 말을 그렇게 해?,평가함 ★ 2.0,books
+50,박지수:contents:books:ratings.xlsx,박지수,어린 완벽주의자들,평가함 ★ 4.0,books
+51,박지수:contents:books:ratings.xlsx,박지수,응급의학과 의사 아빠의 안전한 육아,평가함 ★ 3.0,books
+52,박지수:contents:books:ratings.xlsx,박지수,하늘아! 미세먼지 어떡해?,평가함 ★ 2.5,books
+53,박지수:contents:books:ratings.xlsx,박지수,박진실 변호사의 대마이야기,평가함 ★ 0.5,books
+54,박지수:contents:books:ratings.xlsx,박지수,여행의 이유,평가함 ★ 3.5,books
+55,박지수:contents:books:ratings.xlsx,박지수,"아무튼, 비건",평가함 ★ 4.5,books
+56,박지수:contents:books:ratings.xlsx,박지수,13.67,평가함 ★ 3.5,books
+57,박지수:contents:books:ratings.xlsx,박지수,인생의 베일,평가함 ★ 4.0,books
+58,박지수:contents:books:ratings.xlsx,박지수,작은 책방 꾸리는 법,평가함 ★ 4.5,books
+59,박지수:contents:books:ratings.xlsx,박지수,유튜브로 책 권하는 법,평가함 ★ 3.5,books
+60,박지수:contents:books:ratings.xlsx,박지수,위즈덤,평가함 ★ 4.0,books
+61,박지수:contents:books:ratings.xlsx,박지수,청기와주유소 씨름 기담,평가함 ★ 2.5,books
+62,박지수:contents:books:ratings.xlsx,박지수,속죄,평가함 ★ 5.0,books
+63,박지수:contents:books:ratings.xlsx,박지수,우리가 보낸 가장 긴 밤,평가함 ★ 3.5,books
+64,박지수:contents:books:ratings.xlsx,박지수,연필로 쓰기,평가함 ★ 4.5,books
+65,박지수:contents:books:ratings.xlsx,박지수,태엽 감는 새 연대기,평가함 ★ 3.0,books
+66,박지수:contents:books:ratings.xlsx,박지수,BTS : THE REVIEW,평가함 ★ 5.0,books
+67,박지수:contents:books:ratings.xlsx,박지수,대한민국 독서사,평가함 ★ 4.0,books
+68,박지수:contents:books:ratings.xlsx,박지수,프랑켄슈타인,평가함 ★ 5.0,books
+69,박지수:contents:books:ratings.xlsx,박지수,땀 흘리는 소설,평가함 ★ 4.0,books
+70,박지수:contents:books:ratings.xlsx,박지수,우리는 왜 잠을 자야 할까,평가함 ★ 4.5,books
+71,박지수:contents:books:ratings.xlsx,박지수,소설가의 일,평가함 ★ 4.5,books
+72,박지수:contents:books:ratings.xlsx,박지수,정확한 사랑의 실험,평가함 ★ 5.0,books
+73,박지수:contents:books:ratings.xlsx,박지수,그 청년 바보의사,평가함 ★ 3.5,books
+74,박지수:contents:books:ratings.xlsx,박지수,옥상에서 만나요,평가함 ★ 4.5,books
+75,박지수:contents:books:ratings.xlsx,박지수,"당선, 합격, 계급",평가함 ★ 4.0,books
+76,박지수:contents:books:ratings.xlsx,박지수,서울의 3년 이하 서점들 : 솔직히 책이 정말 팔릴 거라 생각했나?,평가함 ★ 4.0,books
+77,박지수:contents:books:ratings.xlsx,박지수,꾸뻬 씨의 행복 여행,평가함 ★ 2.0,books
+78,박지수:contents:books:ratings.xlsx,박지수,대논쟁! 철학 배틀,평가함 ★ 4.0,books
+79,박지수:contents:books:ratings.xlsx,박지수,그러니까 당신도 살아,평가함 ★ 1.0,books
+80,박지수:contents:books:ratings.xlsx,박지수,어린 왕자,평가함 ★ 5.0,books
+81,박지수:contents:books:ratings.xlsx,박지수,Becoming 비커밍,평가함 ★ 4.5,books
+82,박지수:contents:books:ratings.xlsx,박지수,쇼코의 미소,평가함 ★ 3.0,books
+83,박지수:contents:books:ratings.xlsx,박지수,미움받을 용기,평가함 ★ 2.0,books
+84,박지수:contents:books:ratings.xlsx,박지수,스크루테이프의 편지,평가함 ★ 3.5,books
+85,박지수:contents:books:ratings.xlsx,박지수,로드,평가함 ★ 4.0,books
+86,박지수:contents:books:ratings.xlsx,박지수,해가 지는 곳으로,평가함 ★ 2.0,books
+87,박지수:contents:books:ratings.xlsx,박지수,지금 알고 있는 걸 그때도 알았더라면,평가함 ★ 3.5,books
+88,박지수:contents:books:ratings.xlsx,박지수,아버지의 여행가방,평가함 ★ 3.5,books
+89,박지수:contents:books:ratings.xlsx,박지수,쾌락독서,평가함 ★ 3.0,books
+90,박지수:contents:books:ratings.xlsx,박지수,고래,평가함 ★ 5.0,books
+91,박지수:contents:books:ratings.xlsx,박지수,당신이 옳다,평가함 ★ 4.5,books
+92,박지수:contents:books:ratings.xlsx,박지수,인생,평가함 ★ 5.0,books
+93,박지수:contents:books:ratings.xlsx,박지수,콜 미 바이 유어 네임,평가함 ★ 4.0,books
+94,박지수:contents:books:ratings.xlsx,박지수,리어 왕,평가함 ★ 4.0,books
+95,박지수:contents:books:ratings.xlsx,박지수,어떻게 죽을 것인가,평가함 ★ 5.0,books
+96,박지수:contents:books:ratings.xlsx,박지수,어떻게 일할 것인가,평가함 ★ 3.5,books
+97,박지수:contents:books:ratings.xlsx,박지수,깊이에의 강요,평가함 ★ 3.0,books
+98,박지수:contents:books:ratings.xlsx,박지수,보건교사 안은영,평가함 ★ 3.5,books
+99,박지수:contents:books:ratings.xlsx,박지수,피프티 피플,평가함 ★ 4.0,books
+100,박지수:contents:books:ratings.xlsx,박지수,운명과 분노,평가함 ★ 5.0,books
+101,박지수:contents:books:ratings.xlsx,박지수,못참는 아이 욱하는 부모,평가함 ★ 3.0,books
+102,박지수:contents:books:ratings.xlsx,박지수,시크:하다,평가함 ★ 4.0,books
+103,박지수:contents:books:ratings.xlsx,박지수,프랑스 아이처럼,평가함 ★ 2.5,books
+104,박지수:contents:books:ratings.xlsx,박지수,그리스 로마 신화,평가함 ★ 4.5,books
+105,박지수:contents:books:ratings.xlsx,박지수,고령화 가족,평가함 ★ 3.5,books
+106,박지수:contents:books:ratings.xlsx,박지수,21세기를 위한 21가지 제언,평가함 ★ 4.0,books
+107,박지수:contents:books:ratings.xlsx,박지수,태도에 관하여,평가함 ★ 2.5,books
+108,박지수:contents:books:ratings.xlsx,박지수,한 시간만 그 방에,평가함 ★ 4.0,books
+109,박지수:contents:books:ratings.xlsx,박지수,잉글리시 페이션트,평가함 ★ 4.0,books
+110,박지수:contents:books:ratings.xlsx,박지수,잘돼가? 무엇이든,평가함 ★ 2.5,books
+111,박지수:contents:books:ratings.xlsx,박지수,세상에서 가장 짧은 세계사,평가함 ★ 4.0,books
+112,박지수:contents:books:ratings.xlsx,박지수,미스 함무라비,평가함 ★ 3.0,books
+113,박지수:contents:books:ratings.xlsx,박지수,육식의 종말,평가함 ★ 4.0,books
+114,박지수:contents:books:ratings.xlsx,박지수,위대하고 위험한 약 이야기,평가함 ★ 4.0,books
+115,박지수:contents:books:ratings.xlsx,박지수,하루의 취향,평가함 ★ 4.0,books
+116,박지수:contents:books:ratings.xlsx,박지수,빅 히스토리,평가함 ★ 4.0,books
+117,박지수:contents:books:ratings.xlsx,박지수,행복의 기원,평가함 ★ 4.0,books
+118,박지수:contents:books:ratings.xlsx,박지수,있으려나 서점,평가함 ★ 4.0,books
+119,박지수:contents:books:ratings.xlsx,박지수,인 콜드 블러드,평가함 ★ 3.5,books
+120,박지수:contents:books:ratings.xlsx,박지수,자식이 뭐라고,평가함 ★ 2.0,books
+121,박지수:contents:books:ratings.xlsx,박지수,청춘의 독서,평가함 ★ 4.0,books
+122,박지수:contents:books:ratings.xlsx,박지수,대책 없이 해피엔딩,평가함 ★ 3.0,books
+123,박지수:contents:books:ratings.xlsx,박지수,남아 있는 나날,평가함 ★ 3.5,books
+124,박지수:contents:books:ratings.xlsx,박지수,사는 게 뭐라고,평가함 ★ 4.0,books
+125,박지수:contents:books:ratings.xlsx,박지수,곰탕,평가함 ★ 4.0,books
+126,박지수:contents:books:ratings.xlsx,박지수,피로사회,평가함 ★ 4.0,books
+127,박지수:contents:books:ratings.xlsx,박지수,호모 데우스,평가함 ★ 5.0,books
+128,박지수:contents:books:ratings.xlsx,박지수,맥베스,평가함 ★ 4.0,books
+129,박지수:contents:books:ratings.xlsx,박지수,무엇이든 쓰게 된다,평가함 ★ 3.5,books
+130,박지수:contents:books:ratings.xlsx,박지수,세 종교 이야기,평가함 ★ 4.0,books
+131,박지수:contents:books:ratings.xlsx,박지수,달의 궁전,평가함 ★ 3.5,books
+132,박지수:contents:books:ratings.xlsx,박지수,넛셸,평가함 ★ 1.0,books
+133,박지수:contents:books:ratings.xlsx,박지수,신경 끄기의 기술,평가함 ★ 3.0,books
+134,박지수:contents:books:ratings.xlsx,박지수,처음부터 엄마는 아니었어,평가함 ★ 3.0,books
+135,박지수:contents:books:ratings.xlsx,박지수,아픔이 길이 되려면,평가함 ★ 4.0,books
+136,박지수:contents:books:ratings.xlsx,박지수,화차,평가함 ★ 4.0,books
+137,박지수:contents:books:ratings.xlsx,박지수,인테리어 원 북,평가함 ★ 4.0,books
+138,박지수:contents:books:ratings.xlsx,박지수,박시백의 조선왕조실록,평가함 ★ 5.0,books
+139,박지수:contents:books:ratings.xlsx,박지수,햄릿,평가함 ★ 4.5,books
+140,박지수:contents:books:ratings.xlsx,박지수,롤리타,평가함 ★ 4.0,books
+141,박지수:contents:books:ratings.xlsx,박지수,나를 보내지 마,평가함 ★ 4.0,books
+142,박지수:contents:books:ratings.xlsx,박지수,설민석의 조선왕조실록,평가함 ★ 4.0,books
+143,박지수:contents:books:ratings.xlsx,박지수,심플하게 산다,평가함 ★ 3.0,books
+144,박지수:contents:books:ratings.xlsx,박지수,오늘 한 푼 벌면 내일 두 푼 나가고,평가함 ★ 3.0,books
+145,박지수:contents:books:ratings.xlsx,박지수,은하계 최초 잡놈 김어준 평전,평가함 ★ 2.5,books
+146,박지수:contents:books:ratings.xlsx,박지수,남한산성,평가함 ★ 4.5,books
+147,박지수:contents:books:ratings.xlsx,박지수,존재의 세 가지 거짓말,평가함 ★ 4.0,books
+148,박지수:contents:books:ratings.xlsx,박지수,면역에 관하여,평가함 ★ 4.0,books
+149,박지수:contents:books:ratings.xlsx,박지수,에브리맨,평가함 ★ 3.5,books
+150,박지수:contents:books:ratings.xlsx,박지수,아내 가뭄,평가함 ★ 3.5,books
+151,박지수:contents:books:ratings.xlsx,박지수,주진우의 이명박 추격기,평가함 ★ 3.0,books
+152,박지수:contents:books:ratings.xlsx,박지수,달과 6펜스,평가함 ★ 5.0,books
+153,박지수:contents:books:ratings.xlsx,박지수,크로스 : 정재승 + 진중권,평가함 ★ 2.0,books
+154,박지수:contents:books:ratings.xlsx,박지수,이토록 아름다운 세 살,평가함 ★ 3.0,books
+155,박지수:contents:books:ratings.xlsx,박지수,살인자의 기억법,평가함 ★ 2.5,books
+156,박지수:contents:books:ratings.xlsx,박지수,"바르셀로나 홀리데이 (2016~2017년 개정판, 휴대용 맵북)",평가함 ★ 2.0,books
+157,박지수:contents:books:ratings.xlsx,박지수,시옷의 세계,평가함 ★ 3.0,books
+158,박지수:contents:books:ratings.xlsx,박지수,브루클린의 소녀,평가함 ★ 2.0,books
+159,박지수:contents:books:ratings.xlsx,박지수,"스페인, 너는 자유다",평가함 ★ 4.0,books
+160,박지수:contents:books:ratings.xlsx,박지수,폭풍의 언덕,평가함 ★ 5.0,books
+161,박지수:contents:books:ratings.xlsx,박지수,앵무새 죽이기,평가함 ★ 4.0,books
+162,박지수:contents:books:ratings.xlsx,박지수,지도 밖으로 행군하라,평가함 ★ 2.0,books
+163,박지수:contents:books:ratings.xlsx,박지수,향수,평가함 ★ 4.5,books
+164,박지수:contents:books:ratings.xlsx,박지수,자기 앞의 생,평가함 ★ 4.0,books
+165,박지수:contents:books:ratings.xlsx,박지수,가시고기,평가함 ★ 3.5,books
+166,박지수:contents:books:ratings.xlsx,박지수,무궁화 꽃이 피었습니다,평가함 ★ 4.0,books
+167,박지수:contents:books:ratings.xlsx,박지수,이기적 유전자,평가함 ★ 4.0,books
+168,박지수:contents:books:ratings.xlsx,박지수,나나의 네버엔딩 스토리,평가함 ★ 3.0,books
+169,박지수:contents:books:ratings.xlsx,박지수,7년의 밤,평가함 ★ 3.5,books
+170,박지수:contents:books:ratings.xlsx,박지수,스페인은 가우디다,평가함 ★ 2.0,books
+171,박지수:contents:books:ratings.xlsx,박지수,신곡 - 지옥편,평가함 ★ 4.5,books
+172,박지수:contents:books:ratings.xlsx,박지수,원더보이,평가함 ★ 3.0,books
+173,박지수:contents:books:ratings.xlsx,박지수,고등어,평가함 ★ 3.5,books
+174,박지수:contents:books:ratings.xlsx,박지수,파우스트,평가함 ★ 4.0,books
+175,박지수:contents:books:ratings.xlsx,박지수,냉정과 열정사이 Rosso,평가함 ★ 5.0,books
+176,박지수:contents:books:ratings.xlsx,박지수,냉정과 열정사이 Blu,평가함 ★ 5.0,books
+177,박지수:contents:books:ratings.xlsx,박지수,오체 불만족,평가함 ★ 1.0,books
+178,박지수:contents:books:ratings.xlsx,박지수,다 빈치 코드,평가함 ★ 4.0,books
+179,박지수:contents:books:ratings.xlsx,박지수,모든 요일의 여행,평가함 ★ 3.5,books
+180,박지수:contents:books:ratings.xlsx,박지수,나는 농담이다,평가함 ★ 3.5,books
+181,박지수:contents:books:ratings.xlsx,박지수,여덟 단어,평가함 ★ 3.5,books
+182,박지수:contents:books:ratings.xlsx,박지수,시를 잊은 그대에게,평가함 ★ 3.5,books
+183,박지수:contents:books:ratings.xlsx,박지수,언제 들어도 좋은 말,평가함 ★ 4.0,books
+184,박지수:contents:books:ratings.xlsx,박지수,보통의 존재,평가함 ★ 2.5,books
+185,박지수:contents:books:ratings.xlsx,박지수,82년생 김지영,평가함 ★ 2.5,books
+186,박지수:contents:books:ratings.xlsx,박지수,소년이 온다,평가함 ★ 5.0,books
+187,박지수:contents:books:ratings.xlsx,박지수,채식주의자,평가함 ★ 3.5,books
+188,박지수:contents:books:ratings.xlsx,박지수,완벽한 공부법,평가함 ★ 3.5,books
+189,박지수:contents:books:ratings.xlsx,박지수,결혼.여름,평가함 ★ 3.0,books
+190,박지수:contents:books:ratings.xlsx,박지수,나는 나를 파괴할 권리가 있다,평가함 ★ 2.5,books
+191,박지수:contents:books:ratings.xlsx,박지수,퀴르발 남작의 성,평가함 ★ 4.0,books
+192,박지수:contents:books:ratings.xlsx,박지수,나의 한국현대사,평가함 ★ 3.5,books
+193,박지수:contents:books:ratings.xlsx,박지수,어떻게 살 것인가,평가함 ★ 3.5,books
+194,박지수:contents:books:ratings.xlsx,박지수,죄와 벌,평가함 ★ 5.0,books
+195,박지수:contents:books:ratings.xlsx,박지수,젊은 베르테르의 슬픔,평가함 ★ 3.5,books
+196,박지수:contents:books:ratings.xlsx,박지수,화가의 마지막 그림,평가함 ★ 4.0,books
+197,박지수:contents:books:ratings.xlsx,박지수,지적 대화를 위한 넓고 얕은 지식 : 현실 세계 편,평가함 ★ 3.5,books
+198,박지수:contents:books:ratings.xlsx,박지수,열한 계단,평가함 ★ 4.0,books
+199,박지수:contents:books:ratings.xlsx,박지수,한티재 하늘,평가함 ★ 4.5,books
+200,박지수:contents:books:ratings.xlsx,박지수,높고 푸른 사다리,평가함 ★ 4.0,books
+201,박지수:contents:books:ratings.xlsx,박지수,숨결이 바람 될 때,평가함 ★ 5.0,books
+202,박지수:contents:books:ratings.xlsx,박지수,이방인,평가함 ★ 3.5,books
+203,박지수:contents:books:ratings.xlsx,박지수,참을 수 없는 존재의 가벼움,평가함 ★ 4.0,books
+204,박지수:contents:books:ratings.xlsx,박지수,개미,평가함 ★ 3.0,books
+205,박지수:contents:books:ratings.xlsx,박지수,데미안,평가함 ★ 4.0,books
+206,박지수:contents:books:ratings.xlsx,박지수,사피엔스,평가함 ★ 5.0,books
+207,박지수:contents:books:ratings.xlsx,박지수,호밀밭의 파수꾼,평가함 ★ 3.5,books
+208,박지수:contents:books:ratings.xlsx,박지수,지적 대화를 위한 넓고 얕은 지식 : 현실 너머 편,평가함 ★ 3.0,books
+209,박지수:contents:books:ratings.xlsx,박지수,아프니까 청춘이다,평가함 ★ 2.0,books
+210,박지수:contents:books:ratings.xlsx,박지수,사랑하라 한번도 상처받지 않은 것처럼,평가함 ★ 4.0,books
+211,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,인간실격,평가함 ★ 4.5,books
+212,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,물고기는 존재하지 않는다,평가함 ★ 3.5,books
+213,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,어둠에서 벗어나기,평가함 ★ 4.0,books
+214,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,위험한 과학책,평가함 ★ 3.5,books
+215,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"헛간, 불태우다",평가함 ★ 4.0,books
+216,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,살로메,평가함 ★ 3.0,books
+217,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,오민혁 단편선 화점,평가함 ★ 5.0,books
+218,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,오류가 발생했습니다,평가함 ★ 3.0,books
+219,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,환송대,평가함 ★ 4.0,books
+220,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사랑은 왜 끝나나,평가함 ★ 3.5,books
+221,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,트랜스휴머니즘,평가함 ★ 3.0,books
+222,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,슬픔의 위안,평가함 ★ 4.0,books
+223,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모든 일은 결국 벌어진다,평가함 ★ 3.5,books
+224,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,바람의 열두 방향,평가함 ★ 4.0,books
+225,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,철학의 이단자들,평가함 ★ 3.0,books
+226,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,어메이징 필로소피,평가함 ★ 3.5,books
+227,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,얼굴 없는 인간,평가함 ★ 3.5,books
+228,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,WWW HR Giger Com,평가함 ★ 4.5,books
+229,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,충실한 마음,평가함 ★ 4.5,books
+230,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,여자들은 자꾸 같은 질문을 받는다,평가함 ★ 3.5,books
+231,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,한 남자의 그림자,평가함 ★ 4.0,books
+232,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우르비캉드의 광기,평가함 ★ 4.0,books
+233,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,밝은 밤,평가함 ★ 4.0,books
+234,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,작별하지 않는다,평가함 ★ 4.0,books
+235,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,줄리 아씨,평가함 ★ 3.5,books
+236,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,포기한 작업으로부터,평가함 ★ 5.0,books
+237,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,지구를 위한다는 착각,평가함 ★ 4.0,books
+238,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,알지 못하는 모든 신들에게,평가함 ★ 3.5,books
+239,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,긴긴밤,평가함 ★ 4.5,books
+240,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,대혼란의 시대,평가함 ★ 4.0,books
+241,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,그늘의 발달,평가함 ★ 3.0,books
+242,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"빌 게이츠, 기후재앙을 피하는 법",평가함 ★ 3.5,books
+243,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,기술복제시대의 예술작품 / 사진의 작은 역사 외,평가함 ★ 4.5,books
+244,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,개소리에 대하여,평가함 ★ 3.5,books
+245,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모두가 나의 아들,평가함 ★ 4.0,books
+246,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사랑 예찬,평가함 ★ 4.0,books
+247,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,보이지 않는 국경선,평가함 ★ 4.0,books
+248,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모순,평가함 ★ 3.0,books
+249,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,기담,평가함 ★ 3.0,books
+250,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,메리 벤투라와 아홉 번째 왕국,평가함 ★ 3.5,books
+251,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,잠수종과 나비,평가함 ★ 3.5,books
+252,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,신은 주사위 놀이를 하지 않는다,평가함 ★ 3.0,books
+253,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,죽음의 선고,평가함 ★ 4.0,books
+254,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,도련님,평가함 ★ 3.5,books
+255,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,일방통행로 / 사유이미지,평가함 ★ 4.0,books
+256,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,힌트 없음,평가함 ★ 4.0,books
+257,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,신의 아이,평가함 ★ 5.0,books
+258,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모두를 위한 페미니즘,평가함 ★ 3.5,books
+259,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,기울어진 아이,평가함 ★ 4.0,books
+260,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,82년생 김지영,평가함 ★ 3.5,books
+261,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,가윈 경과 녹색기사,평가함 ★ 3.5,books
+262,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,술과 농담,평가함 ★ 3.5,books
+263,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,홀,평가함 ★ 4.0,books
+264,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,새,평가함 ★ 3.0,books
+265,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,빨강의 자서전,평가함 ★ 4.5,books
+266,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,영화를 보러 다니는 평범한 남자,평가함 ★ 4.0,books
+267,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,남자들은 자꾸 나를 가르치려 든다,평가함 ★ 4.0,books
+268,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"리오타르, 왜 철학을 하는가?",평가함 ★ 4.0,books
+269,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,추락,평가함 ★ 4.0,books
+270,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,의식의 강,평가함 ★ 4.0,books
+271,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아침 그리고 저녁,평가함 ★ 4.0,books
+272,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,고마운 마음,평가함 ★ 3.0,books
+273,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,장소와 경험,평가함 ★ 4.0,books
+274,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,금테 안경,평가함 ★ 3.5,books
+275,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,해피 데이스,평가함 ★ 3.5,books
+276,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,암송,평가함 ★ 3.0,books
+277,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,위를 봐요!,평가함 ★ 4.0,books
+278,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,레트로토피아,평가함 ★ 3.5,books
+279,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,맥베스,평가함 ★ 4.0,books
+280,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,리어 왕,평가함 ★ 4.0,books
+281,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,밤의 여행자들,평가함 ★ 3.5,books
+282,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,12월 10일,평가함 ★ 4.0,books
+283,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,핑크,평가함 ★ 4.0,books
+284,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사랑에 관하여,평가함 ★ 5.0,books
+285,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,캉탕,평가함 ★ 4.0,books
+286,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,구로사와 아키라 자서전 비슷한 것,평가함 ★ 3.5,books
+287,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,침묵의 세계,평가함 ★ 3.0,books
+288,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아침의 피아노,평가함 ★ 4.5,books
+289,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,빈자의 미학,평가함 ★ 3.0,books
+290,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,문체 연습,평가함 ★ 3.5,books
+291,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,천 개의 파랑,평가함 ★ 3.0,books
+292,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나는 울 때마다 엄마 얼굴이 된다,평가함 ★ 4.0,books
+293,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,스크린의 추방자들,평가함 ★ 4.0,books
+294,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,평균 연령 60세 사와무라 씨 댁의 이런 하루,평가함 ★ 3.0,books
+295,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,울분,평가함 ★ 4.0,books
+296,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,청중,평가함 ★ 3.0,books
+297,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,제주에서 혼자 살고 술은 약해요,평가함 ★ 3.5,books
+298,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,몰락의 에티카,평가함 ★ 4.0,books
+299,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,두근두근 내 인생,평가함 ★ 3.0,books
+300,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,환상의 밤,평가함 ★ 4.0,books
+301,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,필로,평가함 ★ 3.0,books
+302,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,바깥은 여름,평가함 ★ 4.0,books
+303,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소소한 사건들,평가함 ★ 3.5,books
+304,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모비 딕,평가함 ★ 4.0,books
+305,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,지구만큼 슬펐다고 한다,평가함 ★ 3.5,books
+306,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,화염,평가함 ★ 4.0,books
+307,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,숨쉬는 무덤,평가함 ★ 4.5,books
+308,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,폴리나,평가함 ★ 3.5,books
+309,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,비상과 환상,평가함 ★ 3.0,books
+310,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,쥐,평가함 ★ 4.0,books
+311,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,죽음의 부정,평가함 ★ 5.0,books
+312,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"알랭 바디우, 오늘의 포르노그래피",평가함 ★ 3.5,books
+313,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,부루마불에 평양이 있다면,평가함 ★ 4.0,books
+314,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,법 앞에서,평가함 ★ 5.0,books
+315,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,펀 홈 : 가족 희비극,평가함 ★ 4.0,books
+316,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,걸리버 여행기,평가함 ★ 4.0,books
+317,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,희지의 세계,평가함 ★ 4.0,books
+318,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,괴담 찌르기,평가함 ★ 2.5,books
+319,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,불과 나의 자서전,평가함 ★ 4.0,books
+320,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,펠리시아의 여정,평가함 ★ 4.5,books
+321,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,색채 속을 걷는 사람,평가함 ★ 4.0,books
+322,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,빛의 과거,평가함 ★ 3.5,books
+323,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,처음 만나는 돈 키호테,평가함 ★ 4.0,books
+324,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,리버스 에지 River’s Edge,평가함 ★ 4.5,books
+325,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,헬싱,평가함 ★ 3.5,books
+326,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,불안한 사람들,평가함 ★ 3.5,books
+327,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,오베라는 남자,평가함 ★ 3.5,books
+328,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,창문 넘어 도망친 100세 노인,평가함 ★ 3.5,books
+329,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,못 속에는 못 속이는 이야기,평가함 ★ 4.0,books
+330,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,달까지 가자,평가함 ★ 3.0,books
+331,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,당신 집에서 잘 수 있나요?,평가함 ★ 3.5,books
+332,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,다른 방식으로 보기,평가함 ★ 4.0,books
+333,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,스마트한 연애사용법,평가함 ★ 2.5,books
+334,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,미야자키 하야오 출발점 1979∼1996,평가함 ★ 4.0,books
+335,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,콧물끼리,평가함 ★ 3.0,books
+336,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,신,평가함 ★ 3.5,books
+337,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,데이빗 린치의 빨간방,평가함 ★ 3.0,books
+338,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아우스터리츠,평가함 ★ 4.0,books
+339,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아주 편안한 죽음,평가함 ★ 4.0,books
+340,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,한 줄도 너를 잊지 못했다,평가함 ★ 4.5,books
+341,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,꿈,평가함 ★ 4.0,books
+342,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이 집에서 슬픔은 안 된다,평가함 ★ 3.5,books
+343,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,천국에서 만난 다섯 사람,평가함 ★ 3.0,books
+344,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,자기 앞의 생,평가함 ★ 4.0,books
+345,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"천사여, 고향을 보라",평가함 ★ 4.0,books
+346,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,죽음의 엘레지,평가함 ★ 4.5,books
+347,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아내의 빈 방,평가함 ★ 3.5,books
+348,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,가족의 죽음,평가함 ★ 3.0,books
+349,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사라진 재의 아이,평가함 ★ 4.0,books
+350,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,슬픔이 없는 십오 초,평가함 ★ 3.5,books
+351,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,유토피아니즘,평가함 ★ 3.5,books
+352,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나를 보는 당신을 바라보았다,평가함 ★ 3.0,books
+353,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,인간 속의 악마,평가함 ★ 3.5,books
+354,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,힘이 정의다,평가함 ★ 3.0,books
+355,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,칼 라르손,평가함 ★ 3.0,books
+356,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우리는 매일매일,평가함 ★ 3.5,books
+357,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,지옥별 레미나,평가함 ★ 3.5,books
+358,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이름 붙일 수 없는 자,평가함 ★ 4.5,books
+359,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,인터내셔널의 밤,평가함 ★ 3.5,books
+360,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,화이트 호스,평가함 ★ 3.5,books
+361,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,트릭 미러,평가함 ★ 3.0,books
+362,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,지상의 노래,평가함 ★ 4.0,books
+363,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이제야 언니에게,평가함 ★ 4.0,books
+364,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,당신의 첫,평가함 ★ 3.5,books
+365,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"빌어먹을, 차가운 심장",평가함 ★ 3.0,books
+366,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,트라우마 사전,평가함 ★ 4.0,books
+367,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이별의 능력,평가함 ★ 4.0,books
+368,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,듣고 말하는 사람들을 위한 농아에 대한 편지,평가함 ★ 3.5,books
+369,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,디너,평가함 ★ 4.0,books
+370,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아름다웠던 사람의 이름은 혼자,평가함 ★ 4.0,books
+371,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우린 아무 관계도 아니에요,평가함 ★ 3.5,books
+372,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,마의 파편,평가함 ★ 3.5,books
+373,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,악의 교전,평가함 ★ 3.5,books
+374,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,영화와 시,평가함 ★ 3.5,books
+375,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,서랍에 저녁을 넣어 두었다,평가함 ★ 4.0,books
+376,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,작은 겁쟁이 겁쟁이 새로운 파티,평가함 ★ 3.0,books
+377,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,백야의 소문으로 영원히,평가함 ★ 4.0,books
+378,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,해보지 않으면 알 수 없어서,평가함 ★ 3.0,books
+379,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우리가 빛의 속도로 갈 수 없다면,평가함 ★ 3.5,books
+380,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,애도 일기,평가함 ★ 5.0,books
+381,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,페미니즘의 주제들,평가함 ★ 3.5,books
+382,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,산책과 연애,평가함 ★ 2.5,books
+383,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,야성의 부름,평가함 ★ 4.0,books
+384,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나쁜 친구,평가함 ★ 4.0,books
+385,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,개의 심장,평가함 ★ 3.5,books
+386,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,지옥에서 보낸 한철,평가함 ★ 3.0,books
+387,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,시네마토그래프에 대한 단상,평가함 ★ 3.5,books
+388,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,은는이가,평가함 ★ 4.0,books
+389,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사랑의 이해,평가함 ★ 4.0,books
+390,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,숨,평가함 ★ 4.0,books
+391,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,시차의 눈을 달랜다,평가함 ★ 3.0,books
+392,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,고양이의 아침,평가함 ★ 3.0,books
+393,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,로봇도 사랑을 할까,평가함 ★ 3.5,books
+394,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,앨저넌에게 꽃을,평가함 ★ 4.5,books
+395,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,블러드차일드,평가함 ★ 3.5,books
+396,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"아버지는 나를 처제, 하고 불렀다",평가함 ★ 4.0,books
+397,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,로봇,평가함 ★ 3.5,books
+398,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,갈라테아 2.2,평가함 ★ 5.0,books
+399,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,유동하는 공포,평가함 ★ 3.5,books
+400,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,연애와 술,평가함 ★ 3.0,books
+401,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,끈이론,평가함 ★ 3.5,books
+402,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사람의 아이들,평가함 ★ 3.5,books
+403,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,영화를 찍으며 생각한 것,평가함 ★ 3.5,books
+404,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아네모네,평가함 ★ 3.0,books
+405,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"콤플렉스의 탄생, 어머니 콤플렉스 아버지 콤플렉스",평가함 ★ 4.0,books
+406,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,GV 빌런 고태경,평가함 ★ 3.5,books
+407,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,훔쳐가는 노래,평가함 ★ 4.0,books
+408,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사계절 이야기,평가함 ★ 4.0,books
+409,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,내가 말하고 있잖아,평가함 ★ 3.0,books
+410,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"세속적 영화, 세속적 비평",평가함 ★ 4.5,books
+411,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,담배와 영화,평가함 ★ 3.0,books
+412,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,산책자,평가함 ★ 4.0,books
+413,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이렇게 될 줄 몰랐습니다,평가함 ★ 4.0,books
+414,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우리의 대화는 이런 것입니다,평가함 ★ 4.0,books
+415,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,너의 알다가도 모를 마음,평가함 ★ 4.0,books
+416,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,시와 산책,평가함 ★ 4.0,books
+417,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,가재미,평가함 ★ 4.0,books
+418,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,내가 사모하는 일에 무슨 끝이 있나요,평가함 ★ 3.5,books
+419,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,조이와의 키스,평가함 ★ 4.0,books
+420,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,세계의 호수,평가함 ★ 4.0,books
+421,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,당신은 더 좋은 회사를 다닐 자격이 있다,평가함 ★ 3.0,books
+422,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"나, 소시오패스",평가함 ★ 3.0,books
+423,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,피아노 치는 여자,평가함 ★ 3.0,books
+424,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,거짓에 관한 진실,평가함 ★ 3.5,books
+425,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,실격당한 자들을 위한 변론,평가함 ★ 4.0,books
+426,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,애도 일기,평가함 ★ 4.5,books
+427,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,도박묵시록 카이지,평가함 ★ 4.5,books
+428,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,하녀들,평가함 ★ 4.0,books
+429,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,상처받지 않는 영혼,평가함 ★ 2.5,books
+430,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,브래드 할리의 마차,평가함 ★ 3.0,books
+431,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,새벽 세 시의 사자 한 마리,평가함 ★ 4.0,books
+432,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,꽃이 없는 장미,평가함 ★ 4.0,books
+433,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,미지의 걸작,평가함 ★ 4.0,books
+434,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,의심에 대한 옹호,평가함 ★ 3.5,books
+435,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,헤테로토피아,평가함 ★ 4.0,books
+436,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우주인 세트 - 전2권,평가함 ★ 3.0,books
+437,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,곱세크,평가함 ★ 4.5,books
+438,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,신 신 DIEU DIEU,평가함 ★ 4.0,books
+439,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이토준지 자선 걸작집,평가함 ★ 3.5,books
+440,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,악성 나르시시스트와 그 희생자들,평가함 ★ 3.5,books
+441,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,절망,평가함 ★ 4.0,books
+442,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,마술 가게,평가함 ★ 3.5,books
+443,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사브리나,평가함 ★ 4.0,books
+444,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,운명,평가함 ★ 4.0,books
+445,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,9번의 일,평가함 ★ 3.5,books
+446,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,출동! 119구조대,평가함 ★ 3.5,books
+447,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,검은색,평가함 ★ 3.5,books
+448,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,헬로 아메리카,평가함 ★ 3.0,books
+449,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,유토피아 실험,평가함 ★ 2.5,books
+450,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,새들의 꿈에서는 나무 냄새가 난다,평가함 ★ 3.5,books
+451,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,보이지 않는 영화,평가함 ★ 4.0,books
+452,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나무 위의 남작,평가함 ★ 4.0,books
+453,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,페터 슐레밀의 기이한 이야기,평가함 ★ 5.0,books
+454,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,상자인간,평가함 ★ 4.5,books
+455,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,앙팡 떼리블,평가함 ★ 3.5,books
+456,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모스크바의 신사,평가함 ★ 4.0,books
+457,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,독감,평가함 ★ 5.0,books
+458,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,도둑맞은 편지,평가함 ★ 4.5,books
+459,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,바이러스 쇼크,평가함 ★ 3.0,books
+460,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,태초에 사랑이 있었다,평가함 ★ 4.5,books
+461,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,바이러스와 감염증,평가함 ★ 3.0,books
+462,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,야간 비행 / 남방 우편기,평가함 ★ 4.0,books
+463,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,지복의 성자,평가함 ★ 4.0,books
+464,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,용서하다,평가함 ★ 3.5,books
+465,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,드래곤 헤드,평가함 ★ 3.0,books
+466,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,필경사 바틀비,평가함 ★ 5.0,books
+467,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,성소녀,평가함 ★ 3.0,books
+468,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이 모든 것은 무엇을 의미하는가?,평가함 ★ 3.5,books
+469,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,불가능,평가함 ★ 3.0,books
+470,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,구토,평가함 ★ 5.0,books
+471,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,syzygy,평가함 ★ 3.0,books
+472,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모든 요일의 여행,평가함 ★ 2.5,books
+473,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,하늘의 푸른빛,평가함 ★ 3.5,books
+474,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,상상하기 어려운 존재에 관한 책,평가함 ★ 4.0,books
+475,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사물들,평가함 ★ 5.0,books
+476,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,정키,평가함 ★ 4.0,books
+477,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,신이 절대로 답할 수 없는 몇 가지,평가함 ★ 3.5,books
+478,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,최선은 그런 것이에요,평가함 ★ 4.0,books
+479,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,누운 배,평가함 ★ 4.0,books
+480,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,한니발 라이징,평가함 ★ 3.5,books
+481,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,크림슨의 미궁,평가함 ★ 3.0,books
+482,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,크눌프,평가함 ★ 5.0,books
+483,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,실종 일기,평가함 ★ 3.5,books
+484,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,깨끗하고 밝은 곳,평가함 ★ 5.0,books
+485,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,버드 박스,평가함 ★ 3.5,books
+486,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,시간은 흐르지 않는다,평가함 ★ 4.0,books
+487,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,대도시의 사랑법,평가함 ★ 4.0,books
+488,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,코언 형제,평가함 ★ 3.0,books
+489,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,박찬욱의 몽타주,평가함 ★ 3.0,books
+490,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모데라토 칸타빌레,평가함 ★ 4.0,books
+491,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,어젯밤,평가함 ★ 4.0,books
+492,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,일상의 광기에 대한 이야기 - 그 첫번째,평가함 ★ 5.0,books
+493,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,인 콜드 블러드,평가함 ★ 4.5,books
+494,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,자아의 초월성,평가함 ★ 4.5,books
+495,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,도시의 시간,평가함 ★ 3.0,books
+496,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,편의점 인간,평가함 ★ 3.5,books
+497,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,흉가,평가함 ★ 4.0,books
+498,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,타이터스 앤드러니커스,평가함 ★ 3.5,books
+499,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,케빈에 대하여,평가함 ★ 4.0,books
+500,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,라이터 좀 빌립시다,평가함 ★ 3.5,books
+501,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,시간의 향기,평가함 ★ 5.0,books
+502,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,방랑자들,평가함 ★ 5.0,books
+503,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,태고의 시간들,평가함 ★ 4.5,books
+504,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,참 괜찮은 눈이 온다,평가함 ★ 3.5,books
+505,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,어두운 밤 나는 적막한 집을 나섰다,평가함 ★ 5.0,books
+506,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,긴 이별을 위한 짧은 편지,평가함 ★ 4.5,books
+507,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,노라,평가함 ★ 3.5,books
+508,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,페널티킥 앞에 선 골키퍼의 불안,평가함 ★ 4.5,books
+509,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,양들의 침묵,평가함 ★ 4.5,books
+510,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,너는 갔어야 했다,평가함 ★ 4.0,books
+511,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,인간증발,평가함 ★ 3.0,books
+512,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,빙점,평가함 ★ 4.5,books
+513,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,시련,평가함 ★ 4.5,books
+514,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,불안의 책,평가함 ★ 5.0,books
+515,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,빅 슬립,평가함 ★ 3.0,books
+516,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,자기만의 방,평가함 ★ 3.5,books
+517,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,평범했던 그는 왜 범죄자가 되었을까,평가함 ★ 3.5,books
+518,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,성,평가함 ★ 5.0,books
+519,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이것은 물이다,평가함 ★ 4.0,books
+520,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,암살자닷컴,평가함 ★ 3.0,books
+521,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,오이디푸스 왕 외,평가함 ★ 4.5,books
+522,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,예술 분과로서의 살인,평가함 ★ 3.0,books
+523,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아무도 아닌,평가함 ★ 4.0,books
+524,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,구의 증명,평가함 ★ 5.0,books
+525,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,그 여름의 끝,평가함 ★ 4.5,books
+526,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아우라,평가함 ★ 4.0,books
+527,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,뒹구는 돌은 언제 잠 깨는가,평가함 ★ 4.0,books
+528,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,폭력이란 무엇인가,평가함 ★ 4.5,books
+529,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,적,평가함 ★ 4.0,books
+530,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,어디로 갔을까 나의 한쪽은,평가함 ★ 4.0,books
+531,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,살인자들과의 인터뷰,평가함 ★ 4.0,books
+532,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,내가 너에게 절대로 말하지 않는 것들,평가함 ★ 4.0,books
+533,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,에드거 앨런 포 단편선,평가함 ★ 4.0,books
+534,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,타인은 지옥이다,평가함 ★ 3.5,books
+535,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,인셉션 : 슈팅 스크립트,평가함 ★ 4.0,books
+536,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,슬픔을 공부하는 슬픔,평가함 ★ 4.5,books
+537,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,작은 공주 세라,평가함 ★ 4.5,books
+538,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,왜 나만 우울한 걸까?,평가함 ★ 3.5,books
+539,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소울 반띵,평가함 ★ 3.0,books
+540,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,슬픔이여 안녕,평가함 ★ 3.5,books
+541,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,죽고 싶은데 살고 싶다,평가함 ★ 3.5,books
+542,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"사람, 장소, 환대",평가함 ★ 3.0,books
+543,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,장난감 수리공,평가함 ★ 4.5,books
+544,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,범인 없는 살인의 밤,평가함 ★ 3.0,books
+545,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아오이가든,평가함 ★ 4.0,books
+546,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,불과 글,평가함 ★ 4.5,books
+547,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,내가 싸우듯이,평가함 ★ 3.0,books
+548,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,가면의 고백,평가함 ★ 4.5,books
+549,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,산 자들,평가함 ★ 4.5,books
+550,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,초역 니체의 말 2,평가함 ★ 2.5,books
+551,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,영리,평가함 ★ 4.0,books
+552,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,영화 마케팅 비즈니스,평가함 ★ 2.5,books
+553,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나는 가해자의 엄마입니다,평가함 ★ 3.5,books
+554,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,괴물의 심연,평가함 ★ 3.0,books
+555,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,팽이,평가함 ★ 4.5,books
+556,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소설가 구보씨의 일일,평가함 ★ 3.0,books
+557,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,갈림길,평가함 ★ 2.5,books
+558,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,26년,평가함 ★ 3.5,books
+559,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,정신병동 이야기,평가함 ★ 4.5,books
+560,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"문화, 세상을 콜라주하다",평가함 ★ 3.0,books
+561,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,대리사회,평가함 ★ 3.5,books
+562,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나이트 워치,평가함 ★ 4.0,books
+563,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,토니와 수잔 (영화 포스터 표지),평가함 ★ 4.0,books
+564,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,내게 무해한 사람,평가함 ★ 4.0,books
+565,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,타인의 얼굴,평가함 ★ 4.5,books
+566,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,쇼코의 미소,평가함 ★ 4.0,books
+567,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,딸에 대하여,평가함 ★ 4.5,books
+568,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,북숍 스토리,평가함 ★ 3.0,books
+569,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우리는 어떻게 괴물이 되어가는가,평가함 ★ 4.0,books
+570,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,조제와 호랑이와 물고기들,평가함 ★ 3.5,books
+571,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,연쇄 살인마 개구리 남자,평가함 ★ 3.5,books
+572,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,창백한 불꽃,평가함 ★ 5.0,books
+573,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,톰 소여의 모험,평가함 ★ 3.5,books
+574,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,바람의 딸 걸어서 지구 세바퀴 반,평가함 ★ 3.0,books
+575,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나는 형제들에게 전화를 거네,평가함 ★ 4.0,books
+576,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,라면을 끓이며,평가함 ★ 3.5,books
+577,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,총몽,평가함 ★ 3.0,books
+578,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사채꾼 우시지마,평가함 ★ 4.0,books
+579,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"김아타, 인디아 스케치",평가함 ★ 3.0,books
+580,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"김아타, 뉴욕 스케치",평가함 ★ 3.0,books
+581,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,Atta Kim : ON-AIR,평가함 ★ 3.0,books
+582,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,시민의 불복종,평가함 ★ 5.0,books
+583,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,저녁의 구애,평가함 ★ 4.5,books
+584,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,진중권의 미학 오디세이 3,평가함 ★ 3.5,books
+585,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,진중권의 미학 오디세이 2,평가함 ★ 3.0,books
+586,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,갈매기의 꿈,평가함 ★ 4.0,books
+587,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아내를 모자로 착각한 남자,평가함 ★ 3.5,books
+588,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,그리스인 조르바,평가함 ★ 5.0,books
+589,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사랑하라 한번도 상처받지 않은 것처럼,평가함 ★ 3.0,books
+590,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,타이거! 타이거!,평가함 ★ 4.0,books
+591,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,프로테스탄트 윤리와 자본주의 정신,평가함 ★ 3.0,books
+592,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,뤼미에르 피플,평가함 ★ 4.5,books
+593,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나는 입이 없다 그리고 나는 비명을 질러야 한다,평가함 ★ 4.0,books
+594,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,정치와 도덕을 말하다,평가함 ★ 4.0,books
+595,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,별에서 온 아이,평가함 ★ 4.5,books
+596,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,빛과 물질에 관한 이론,평가함 ★ 5.0,books
+597,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,세상의 바보들에게 웃으면서 화내는 방법,평가함 ★ 4.0,books
+598,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소멸세계,평가함 ★ 4.0,books
+599,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,해가 지는 곳으로,평가함 ★ 4.0,books
+600,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,죽여 마땅한 사람들,평가함 ★ 3.0,books
+601,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우체국,평가함 ★ 5.0,books
+602,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,데뷔의 순간,평가함 ★ 2.5,books
+603,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,지금 우리 학교는,평가함 ★ 3.0,books
+604,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,실존주의는 휴머니즘이다,평가함 ★ 5.0,books
+605,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,백년을 살아보니,평가함 ★ 3.0,books
+606,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,네 이웃의 식탁,평가함 ★ 3.0,books
+607,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,체호프 단편선,평가함 ★ 5.0,books
+608,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,빛의 호위,평가함 ★ 4.0,books
+609,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,살인자의 건강법,평가함 ★ 4.5,books
+610,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,뱀과 물,평가함 ★ 4.5,books
+611,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,선셋 리미티드,평가함 ★ 5.0,books
+612,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,열대야,평가함 ★ 4.5,books
+613,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,하워드 필립스 러브크래프트,평가함 ★ 4.0,books
+614,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,야시,평가함 ★ 4.5,books
+615,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소프트웨어 객체의 생애 주기,평가함 ★ 4.0,books
+616,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모르는 사람들,평가함 ★ 4.5,books
+617,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,당신 인생의 이야기,평가함 ★ 4.0,books
+618,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,ZOO,평가함 ★ 4.5,books
+619,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,괜찮은 사람,평가함 ★ 4.5,books
+620,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"당선, 합격, 계급",평가함 ★ 4.5,books
+621,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,살인출산,평가함 ★ 4.0,books
+622,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,정글북,평가함 ★ 4.5,books
+623,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,연애의 기억,평가함 ★ 4.0,books
+624,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,무의미의 축제,평가함 ★ 3.5,books
+625,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,자발적 복종,평가함 ★ 4.5,books
+626,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,밝은 방,평가함 ★ 5.0,books
+627,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,러브 레플리카,평가함 ★ 4.0,books
+628,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이유,평가함 ★ 4.0,books
+629,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,다른 사람,평가함 ★ 4.5,books
+630,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,잔혹함에 대하여,평가함 ★ 4.5,books
+631,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,픽션들,평가함 ★ 4.5,books
+632,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,마쓰모토 세이초 걸작 단편 컬렉션 - 상,평가함 ★ 4.5,books
+633,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,내용 없는 인간,평가함 ★ 4.5,books
+634,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아임 소리 마마,평가함 ★ 4.0,books
+635,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사피엔스,평가함 ★ 4.5,books
+636,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,제5도살장,평가함 ★ 4.5,books
+637,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,정확한 사랑의 실험,평가함 ★ 4.5,books
+638,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,대성당,평가함 ★ 4.5,books
+639,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,불온한 검은 피,평가함 ★ 3.5,books
+640,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,누구,평가함 ★ 4.5,books
+641,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,집행인의 귀향,평가함 ★ 3.0,books
+642,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아웃,평가함 ★ 4.5,books
+643,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사회계약론,평가함 ★ 4.5,books
+644,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,안녕 주정뱅이,평가함 ★ 4.5,books
+645,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,언젠가 세상은 영화가 될 것이다,평가함 ★ 4.0,books
+646,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,예감은 틀리지 않는다,평가함 ★ 4.0,books
+647,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이방인,평가함 ★ 5.0,books
+648,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,랜트,평가함 ★ 3.0,books
+649,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,식물들의 사생활,평가함 ★ 4.5,books
+650,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,순간의 꽃,평가함 ★ 4.0,books
+651,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,스토리텔링의 비밀,평가함 ★ 3.0,books
+652,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,피로사회,평가함 ★ 4.0,books
+653,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,잔학기,평가함 ★ 4.0,books
+654,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,해뜨기 전이 가장 어둡다,평가함 ★ 4.5,books
+655,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,다섯째 아이,평가함 ★ 4.0,books
+656,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,살육에 이르는 병,평가함 ★ 4.0,books
+657,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모래의 여자,평가함 ★ 5.0,books
+658,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,에브리맨,평가함 ★ 4.0,books
+659,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,유토피아,평가함 ★ 4.0,books
+660,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소송,평가함 ★ 5.0,books
+661,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,담론,평가함 ★ 5.0,books
+662,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,좀비,평가함 ★ 4.0,books
+663,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,비둘기,평가함 ★ 5.0,books
+664,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,피프티 피플,평가함 ★ 3.5,books
+665,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,거미여인의 키스,평가함 ★ 4.0,books
+666,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,적의 화장법,평가함 ★ 4.5,books
+667,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"스물아홉 생일, 1년 후 죽기로 결심했다",평가함 ★ 3.0,books
+668,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,투명사회,평가함 ★ 5.0,books
+669,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,내 문장이 그렇게 이상한가요?,평가함 ★ 3.5,books
+670,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,눈물은 힘이 세다,평가함 ★ 4.0,books
+671,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,독재자,평가함 ★ 3.5,books
+672,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사랑을 선택하는 특별한 기준,평가함 ★ 4.5,books
+673,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,당신 옆을 스쳐간 그 소녀의 이름은,평가함 ★ 5.0,books
+674,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,1984,평가함 ★ 5.0,books
+675,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,깊이에의 강요,평가함 ★ 5.0,books
+676,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아름다운 애너벨 리 싸늘하게 죽다,평가함 ★ 4.0,books
+677,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,공포정치,평가함 ★ 4.0,books
+678,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,정의란 무엇인가,평가함 ★ 4.5,books
+679,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,잠의 사생활,평가함 ★ 3.0,books
+680,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,야경,평가함 ★ 4.0,books
+681,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,고흐가 왜 귀를 잘랐는지 아는가,평가함 ★ 3.5,books
+682,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,바람의 노래를 들어라,평가함 ★ 4.0,books
+683,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,죽음의 중지,평가함 ★ 4.0,books
+684,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,노르웨이의 숲,평가함 ★ 4.5,books
+685,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,하늘과 바람과 별과 시,평가함 ★ 5.0,books
+686,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,입 속의 검은 잎,평가함 ★ 5.0,books
+687,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,굿바이 동물원,평가함 ★ 4.0,books
+688,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,묘한 이야기,평가함 ★ 5.0,books
+689,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,댓글부대,평가함 ★ 4.0,books
+690,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,표백,평가함 ★ 5.0,books
+691,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,몰락하는 자,평가함 ★ 5.0,books
+692,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,Story 시나리오 어떻게 쓸 것인가,평가함 ★ 4.0,books
+693,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,돈키호테,평가함 ★ 5.0,books
+694,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사진에 관하여,평가함 ★ 4.0,books
+695,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,파피용,평가함 ★ 4.0,books
+696,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,옥수수와 나,평가함 ★ 4.0,books
+697,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,데미안,평가함 ★ 4.0,books
+698,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,글쓰기의 전략,평가함 ★ 3.0,books
+699,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사진예술개론,평가함 ★ 4.0,books
+700,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,3막의 비밀,평가함 ★ 3.0,books
+701,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,세 명의 사기꾼,평가함 ★ 4.0,books
+702,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,설국,평가함 ★ 4.0,books
+703,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,좀머 씨 이야기,평가함 ★ 5.0,books
+704,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,그가 돌아왔다,평가함 ★ 3.5,books
+705,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,군중심리,평가함 ★ 5.0,books
+706,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,두 도시 이야기,평가함 ★ 4.0,books
+707,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,무솔리니·나의 자서전,평가함 ★ 2.5,books
+708,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,생각에 관한 생각,평가함 ★ 3.5,books
+709,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,할리우드에서 성공한 시나리오작가들의 101가지 습관,평가함 ★ 3.5,books
+710,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,한국의 영화감독 7인을 말하다 1,평가함 ★ 3.0,books
+711,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우리가 묻어버린 것들,평가함 ★ 3.0,books
+712,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우리 안의 파시즘,평가함 ★ 3.5,books
+713,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,그로테스크,평가함 ★ 5.0,books
+714,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,헤드헌터,평가함 ★ 3.5,books
+715,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,열외인종 잔혹사,평가함 ★ 3.5,books
+716,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,꿈의 해석,평가함 ★ 3.5,books
+717,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,울,평가함 ★ 3.5,books
+718,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,생각의 탄생,평가함 ★ 3.5,books
+719,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,내 이름은 빨강,평가함 ★ 4.0,books
+720,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,수레바퀴 아래서,평가함 ★ 4.0,books
+721,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,멋진 신세계,평가함 ★ 4.5,books
+722,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,인간 실격,평가함 ★ 4.5,books
+723,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"국경의 남쪽, 태양의 서쪽",평가함 ★ 4.0,books
+724,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,앤디 워홀 정신,평가함 ★ 4.0,books
+725,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,세상에서 가장 아름다운 이별,평가함 ★ 4.0,books
+726,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,축제,평가함 ★ 4.0,books
+727,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,인간의 증명,평가함 ★ 3.0,books
+728,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,인간의 증명,평가함 ★ 3.5,books
+729,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,유혹하는 글쓰기,평가함 ★ 4.0,books
+730,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,한 스푼의 시간,평가함 ★ 3.5,books
+731,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"U, Robot 유, 로봇",평가함 ★ 3.0,books
+732,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,무슨 일이 일어났는지는 아무도,평가함 ★ 4.0,books
+733,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,동물농장,평가함 ★ 5.0,books
+734,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,삼국지,평가함 ★ 5.0,books
+735,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,위대한 개츠비,평가함 ★ 4.0,books
+736,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,공중그네,평가함 ★ 4.0,books
+737,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,11분,평가함 ★ 3.5,books
+738,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,눈먼 자들의 도시,평가함 ★ 5.0,books
+739,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,카인,평가함 ★ 4.5,books
+740,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,쇼펜하우어 문장론,평가함 ★ 4.0,books
+741,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,알바생 자르기 Fired,평가함 ★ 3.5,books
+742,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"열광금지, 에바로드",평가함 ★ 4.0,books
+743,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,한국이 싫어서,평가함 ★ 4.0,books
+744,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"그믐, 또는 당신이 세계를 기억하는 방식",평가함 ★ 5.0,books
+745,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,2016 제7회 젊은작가상 수상작품집,평가함 ★ 3.5,books
+746,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우리의 소원은 전쟁,평가함 ★ 3.5,books
+747,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,생쥐와 인간,평가함 ★ 4.0,books
+748,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,초역 니체의 말,평가함 ★ 3.0,books
+749,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모던 하트,평가함 ★ 3.0,books
+750,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,군주론,평가함 ★ 4.5,books
+751,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,돈으로 살 수 없는 것들,평가함 ★ 4.5,books
+752,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,도플갱어,평가함 ★ 4.0,books
+753,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,고도를 기다리며,평가함 ★ 4.0,books
+754,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,콘트라바스,평가함 ★ 5.0,books
+755,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,어떻게 죽을 것인가,평가함 ★ 5.0,books
+756,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,변신.시골의사,평가함 ★ 5.0,books
+757,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,구운몽,평가함 ★ 4.0,books
+758,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,시뮬라시옹,평가함 ★ 4.0,books
+759,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,로드,평가함 ★ 4.0,books
+760,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,빅 픽처,평가함 ★ 3.5,books
+761,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나비,평가함 ★ 4.0,books
+762,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,예지몽,평가함 ★ 3.0,books
+763,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,GTO 반항하지마,평가함 ★ 3.0,books
+764,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,꺼벙이 만화일기,평가함 ★ 3.0,books
+765,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,거장의 노트를 훔치다,평가함 ★ 3.5,books
+766,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,젊은 베르테르의 슬픔,평가함 ★ 4.0,books
+767,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사진철학의 풍경들,평가함 ★ 4.0,books
+768,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,영화 이해의 길잡이,평가함 ★ 3.0,books
+769,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,파우스트,평가함 ★ 3.5,books
+770,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,연을 쫓는 아이,평가함 ★ 3.5,books
+771,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,호문쿨루스,평가함 ★ 3.0,books
+772,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,연놈,평가함 ★ 3.0,books
+773,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,브릿지,평가함 ★ 4.0,books
+774,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,최유기 1,평가함 ★ 3.0,books
+775,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우에키의 법칙,평가함 ★ 3.0,books
+776,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,탐정학원 Q,평가함 ★ 3.0,books
+777,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,개그만화 보기 좋은날,평가함 ★ 3.0,books
+778,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,유레카,평가함 ★ 3.0,books
+779,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,원조! 괴짜가족 27,평가함 ★ 3.0,books
+780,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,만화 삼국지,평가함 ★ 3.0,books
+781,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,힙합,평가함 ★ 3.0,books
+782,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,에어기어 Airgear,평가함 ★ 3.0,books
+783,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,따끈 따끈 베이커리,평가함 ★ 3.0,books
+784,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,도라에몽,평가함 ★ 3.0,books
+785,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,미스터 초밥왕 전국대회편,평가함 ★ 3.0,books
+786,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소년탐정 김전일 2부,평가함 ★ 3.5,books
+787,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,미스터 초밥왕,평가함 ★ 3.0,books
+788,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,새벽 거리에서,평가함 ★ 3.5,books
+789,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,묘진전,평가함 ★ 4.5,books
+790,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"발터 벤야민, 사진에 대하여",평가함 ★ 4.0,books
+791,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,최민식,평가함 ★ 4.0,books
+792,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,외젠 앗제,평가함 ★ 4.5,books
+793,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,라이언 맥긴리 컬렉션 : 바람을 부르는 휘파람,평가함 ★ 4.5,books
+794,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,키친,평가함 ★ 3.5,books
+795,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,마지막 잎새,평가함 ★ 4.0,books
+796,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,오두막,평가함 ★ 3.0,books
+797,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,눈뜬 자들의 도시,평가함 ★ 3.5,books
+798,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,개더링,평가함 ★ 3.0,books
+799,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,창조적으로 이미지를 보는 법,평가함 ★ 3.5,books
+800,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,좋은 사진을 만드는 정승익의 사진 구도,평가함 ★ 3.0,books
+801,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사진 기술개론  -사진. photo -,평가함 ★ 3.0,books
+802,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,대학일기,평가함 ★ 3.5,books
+803,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,카페타 Capeta 1,평가함 ★ 3.5,books
+804,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사상최강의 제자 켄이치 1 31,평가함 ★ 3.0,books
+805,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,금요일,평가함 ★ 5.0,books
+806,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,모르는 척,평가함 ★ 3.5,books
+807,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,꿈이었을까,평가함 ★ 3.0,books
+808,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,놀이와 예술 그리고 상상력,평가함 ★ 4.0,books
+809,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,인간 없는 세상,평가함 ★ 4.0,books
+810,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,뒤마 클럽,평가함 ★ 3.5,books
+811,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,리버 보이,평가함 ★ 3.0,books
+812,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,진중권의 미학 오디세이 1,평가함 ★ 4.0,books
+813,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,메밀꽃 필 무렵,평가함 ★ 3.5,books
+814,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우동 한 그릇,평가함 ★ 3.5,books
+815,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,돌아온 진돗개 백구,평가함 ★ 3.0,books
+816,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,도라에몽 플러스,평가함 ★ 4.0,books
+817,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사이코닥터 카이 쿄오스케,평가함 ★ 3.5,books
+818,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,유유백서,평가함 ★ 3.5,books
+819,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,마왕,평가함 ★ 3.0,books
+820,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,천랑열전,평가함 ★ 3.5,books
+821,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사도 Sado,평가함 ★ 3.0,books
+822,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,홀리랜드,평가함 ★ 3.5,books
+823,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,고구려,평가함 ★ 4.0,books
+824,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,천년의 금서,평가함 ★ 3.5,books
+825,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,호밀밭의 파수꾼,평가함 ★ 3.5,books
+826,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,등대지기,평가함 ★ 3.0,books
+827,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,꾸뻬 씨의 행복 여행,평가함 ★ 3.0,books
+828,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,내 영혼이 따뜻했던 날들,평가함 ★ 3.5,books
+829,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,연탄길,평가함 ★ 3.0,books
+830,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,다크 메이지,평가함 ★ 3.5,books
+831,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사랑 후에 오는 것들,평가함 ★ 3.5,books
+832,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,시크릿,평가함 ★ 3.0,books
+833,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,슬램덩크,평가함 ★ 4.0,books
+834,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우당탕탕 괴짜가족,평가함 ★ 4.0,books
+835,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,죽는 남자,평가함 ★ 4.0,books
+836,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이끼,평가함 ★ 4.5,books
+837,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,강철의 연금술사,평가함 ★ 3.5,books
+838,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,금색의 갓슈!!,평가함 ★ 3.5,books
+839,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,기생수 애장판,평가함 ★ 4.5,books
+840,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,명탐정 코난,평가함 ★ 4.0,books
+841,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,헌터x헌터 HunterXHunter,평가함 ★ 3.5,books
+842,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,더 파이팅 The Fighting,평가함 ★ 4.0,books
+843,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,바람의 검심,평가함 ★ 4.0,books
+844,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,전략 삼국지,평가함 ★ 4.0,books
+845,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,드래곤 볼,평가함 ★ 4.0,books
+846,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이웃 사람,평가함 ★ 3.5,books
+847,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,타이밍,평가함 ★ 4.0,books
+848,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,마녀,평가함 ★ 4.0,books
+849,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,무빙,평가함 ★ 4.0,books
+850,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,3단합체 김창남,평가함 ★ 4.0,books
+851,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,오렌지 마말레이드,평가함 ★ 3.0,books
+852,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,방과 후 전쟁활동,평가함 ★ 3.5,books
+853,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,삼봉이발소,평가함 ★ 4.0,books
+854,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,갓 오브 하이스쿨,평가함 ★ 3.5,books
+855,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아파트,평가함 ★ 3.5,books
+856,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,베르세르크,평가함 ★ 4.5,books
+857,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,은과 금,평가함 ★ 3.5,books
+858,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,진격의 거인,평가함 ★ 4.0,books
+859,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,2013 마음의 소리 Ver.1,평가함 ★ 4.0,books
+860,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,송곳,평가함 ★ 4.0,books
+861,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,죽음에 관하여,평가함 ★ 4.5,books
+862,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,미생 시즌1,평가함 ★ 4.0,books
+863,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,열혈강호,평가함 ★ 3.5,books
+864,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,헬퍼 Hellper,평가함 ★ 5.0,books
+865,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,20세기 소년,평가함 ★ 5.0,books
+866,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,몬스터,평가함 ★ 5.0,books
+867,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,블리치,평가함 ★ 3.5,books
+868,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,이키가미,평가함 ★ 3.5,books
+869,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,히스토리에 Historie,평가함 ★ 4.5,books
+870,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,엘리트 건달,평가함 ★ 3.5,books
+871,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,블랙 캣 Black Cat,평가함 ★ 3.5,books
+872,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,토미에 PART 소이치의 일기,평가함 ★ 4.5,books
+873,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,프리스트,평가함 ★ 4.0,books
+874,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,제트맨 Zetman,평가함 ★ 3.5,books
+875,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,크레용 신짱,평가함 ★ 4.0,books
+876,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,후레자식,평가함 ★ 3.5,books
+877,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,조선왕조실톡,평가함 ★ 4.0,books
+878,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,투명한 동거,평가함 ★ 3.0,books
+879,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,교수인형,평가함 ★ 3.0,books
+880,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,문유,평가함 ★ 3.0,books
+881,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,바보,평가함 ★ 4.0,books
+882,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,노블레스 Noblesse,평가함 ★ 3.0,books
+883,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,패션왕,평가함 ★ 3.0,books
+884,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,그대를 사랑합니다,평가함 ★ 4.0,books
+885,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,치즈 인 더 트랩,평가함 ★ 3.5,books
+886,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,선천적 얼간이들,평가함 ★ 4.0,books
+887,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,안나라수마나라,평가함 ★ 4.0,books
+888,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,키드갱,평가함 ★ 3.0,books
+889,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,딸기 100% 17,평가함 ★ 2.5,books
+890,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,꼭두각시 서커스,평가함 ★ 3.5,books
+891,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,디 그레이 맨,평가함 ★ 3.5,books
+892,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,라이어 게임,평가함 ★ 4.0,books
+893,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,클레이모어 Claymore 12 3 15 18 19,평가함 ★ 3.5,books
+894,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,벡 Beck,평가함 ★ 3.5,books
+895,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사무라이 디퍼 쿄우,평가함 ★ 4.0,books
+896,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나우 Now,평가함 ★ 3.5,books
+897,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,간츠 Gantz,평가함 ★ 4.0,books
+898,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,워스트 Worst 1,평가함 ★ 3.0,books
+899,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,원펀맨 One Punch Man,평가함 ★ 4.5,books
+900,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,겟 백커스 2 39,평가함 ★ 3.5,books
+901,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,테니스의 왕자 1,평가함 ★ 4.0,books
+902,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아이실드21,평가함 ★ 4.0,books
+903,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,배틀로얄,평가함 ★ 3.5,books
+904,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,가시나무 왕,평가함 ★ 3.0,books
+905,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소년표류 EX,평가함 ★ 2.0,books
+906,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,샤먼킹,평가함 ★ 4.0,books
+907,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,가정교사 히트맨 리본!,평가함 ★ 3.0,books
+908,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,은혼,평가함 ★ 3.0,books
+909,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,배가본드,평가함 ★ 4.0,books
+910,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아일랜드,평가함 ★ 4.5,books
+911,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,피안도,평가함 ★ 3.0,books
+912,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,짱,평가함 ★ 3.0,books
+913,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소년탐정 김전일,평가함 ★ 3.5,books
+914,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,한마 바키,평가함 ★ 3.5,books
+915,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,암스 Arms 완전판,평가함 ★ 4.0,books
+916,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,빌리 배트,평가함 ★ 4.5,books
+917,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,신 암행어사,평가함 ★ 3.5,books
+918,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,남과 여 1,평가함 ★ 4.5,books
+919,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,2010 마음의 소리 Ver.2,평가함 ★ 4.0,books
+920,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사랑 후에 오는 것들,평가함 ★ 3.0,books
+921,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,광장/구운몽,평가함 ★ 4.0,books
+922,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,셜록 홈즈 전집,평가함 ★ 3.5,books
+923,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,파페포포 안단테,평가함 ★ 3.0,books
+924,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,백설공주에게 죽음을,평가함 ★ 3.5,books
+925,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,파페포포 다이어리,평가함 ★ 3.0,books
+926,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,창가의 토토,평가함 ★ 3.5,books
+927,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,화성에서 온 남자 금성에서 온 여자,평가함 ★ 2.5,books
+928,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,안네의 일기,평가함 ★ 3.5,books
+929,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,봉순이 언니,평가함 ★ 3.5,books
+930,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,괭이부리말 아이들,평가함 ★ 3.5,books
+931,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,완득이,평가함 ★ 3.5,books
+932,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,운수 좋은 날,평가함 ★ 4.0,books
+933,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우리들의 행복한 시간,평가함 ★ 3.5,books
+934,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,우리들의 일그러진 영웅,평가함 ★ 3.5,books
+935,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,난장이가 쏘아올린 작은 공,평가함 ★ 4.5,books
+936,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,구해줘,평가함 ★ 3.0,books
+937,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"당신, 거기 있어 줄래요?",평가함 ★ 3.0,books
+938,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,사랑하기 때문에,평가함 ★ 3.0,books
+939,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,꿈꾸는 다락방,평가함 ★ 2.5,books
+940,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,국화꽃 향기,평가함 ★ 3.5,books
+941,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,공포의 물고기,평가함 ★ 3.5,books
+942,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,실질객관동화,평가함 ★ 3.0,books
+943,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,당신의 모든 순간,평가함 ★ 3.0,books
+944,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,배틀로얄,평가함 ★ 3.5,books
+945,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나루토 Naruto,평가함 ★ 4.0,books
+946,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,데스 노트 Death Note,평가함 ★ 4.5,books
+947,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,원피스,평가함 ★ 4.5,books
+948,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,마음의 소리,평가함 ★ 4.0,books
+949,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,순정만화,평가함 ★ 3.5,books
+950,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,어게인,평가함 ★ 3.5,books
+951,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,목욕의 신,평가함 ★ 3.5,books
+952,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,어린 왕자,평가함 ★ 4.5,books
+953,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,"알래스카, 바람 같은 이야기",평가함 ★ 3.5,books
+954,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아낌없이 주는 나무,평가함 ★ 4.5,books
+955,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,김지운의 숏컷,평가함 ★ 3.0,books
+956,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,류승완의 본색,평가함 ★ 3.0,books
+957,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,탈무드,평가함 ★ 4.5,books
+958,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,아홉살 인생,평가함 ★ 4.0,books
+959,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,만화로 보는 그리스 로마 신화,평가함 ★ 3.0,books
+960,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나의 라임 오렌지나무,평가함 ★ 3.5,books
+961,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소나기,평가함 ★ 3.5,books
+962,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,2012 마음의 소리 Ver.1,평가함 ★ 4.0,books
+963,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,노블레스,평가함 ★ 3.0,books
+964,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,은밀하게 위대하게,평가함 ★ 3.0,books
+965,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,글쓰기의 공중부양,평가함 ★ 3.5,books
+966,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,최후의 경전,평가함 ★ 3.5,books
+967,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,나무,평가함 ★ 4.0,books
+968,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,가시고기,평가함 ★ 4.0,books
+969,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,개미,평가함 ★ 3.5,books
+970,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,뇌,평가함 ★ 3.5,books
+971,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,무궁화 꽃이 피었습니다,평가함 ★ 4.0,books
+972,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,천사와 악마,평가함 ★ 4.0,books
+973,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,해리 포터와 아즈카반의 죄수,평가함 ★ 4.0,books
+974,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,해리 포터와 불의 잔,평가함 ★ 4.0,books
+975,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,해리 포터와 마법사의 돌,평가함 ★ 4.0,books
+976,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,해리 포터와 비밀의 방,평가함 ★ 3.5,books
+977,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,박찬욱의 오마주,평가함 ★ 3.0,books
+978,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,하악하악,평가함 ★ 3.0,books
+979,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,오체 불만족,평가함 ★ 3.0,books
+980,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,드래곤 라자,평가함 ★ 3.5,books
+981,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,소용돌이 합본판,평가함 ★ 4.0,books
+982,2mwvgLpo25Ma7:contents:books:ratings.xlsx,2mwvgLpo25Ma7,마시멜로 이야기,평가함 ★ 2.5,books
+983,진:contents:books:ratings.xlsx,진,하늘과 바람과 별과 시,평가함 ★ 4.0,books
+984,진:contents:books:ratings.xlsx,진,댈러웨이 부인,평가함 ★ 4.0,books
+985,진:contents:books:ratings.xlsx,진,2020 제11회 젊은작가상 수상작품집,평가함 ★ 4.0,books
+986,진:contents:books:ratings.xlsx,진,양을 쫓는 모험,평가함 ★ 4.0,books
+987,진:contents:books:ratings.xlsx,진,일의 기쁨과 슬픔,평가함 ★ 4.0,books
+988,진:contents:books:ratings.xlsx,진,빛과 물질에 관한 이론,평가함 ★ 4.5,books
+989,진:contents:books:ratings.xlsx,진,죽음의 수용소에서,평가함 ★ 4.5,books
+990,진:contents:books:ratings.xlsx,진,카타리나 블룸의 잃어버린 명예,평가함 ★ 3.5,books
+991,진:contents:books:ratings.xlsx,진,모순,평가함 ★ 5.0,books
+992,진:contents:books:ratings.xlsx,진,"이반 데니소비치, 수용소의 하루",평가함 ★ 4.5,books
+993,진:contents:books:ratings.xlsx,진,가면의 고백,평가함 ★ 4.0,books
+994,진:contents:books:ratings.xlsx,진,나목.도둑맞은 가난,평가함 ★ 4.0,books
+995,진:contents:books:ratings.xlsx,진,사랑의 기술,평가함 ★ 4.0,books
+996,진:contents:books:ratings.xlsx,진,GV 빌런 고태경,평가함 ★ 4.5,books
+997,진:contents:books:ratings.xlsx,진,백년의 고독,평가함 ★ 4.5,books
+998,진:contents:books:ratings.xlsx,진,스토너,평가함 ★ 4.5,books
+999,진:contents:books:ratings.xlsx,진,"우연의 질병, 필연의 죽음",평가함 ★ 4.5,books
+1000,진:contents:books:ratings.xlsx,진,방금 떠나온 세계,평가함 ★ 4.5,books
+1001,진:contents:books:ratings.xlsx,진,마음,평가함 ★ 4.0,books
+1002,진:contents:books:ratings.xlsx,진,두 도시 이야기,평가함 ★ 4.5,books
+1003,진:contents:books:ratings.xlsx,진,침이 고인다,평가함 ★ 4.5,books
+1004,진:contents:books:ratings.xlsx,진,픽션들,평가함 ★ 4.0,books
+1005,진:contents:books:ratings.xlsx,진,작별하지 않는다,평가함 ★ 4.0,books
+1006,진:contents:books:ratings.xlsx,진,이상 소설 전집,평가함 ★ 4.0,books
+1007,진:contents:books:ratings.xlsx,진,바람의 노래를 들어라,평가함 ★ 3.0,books
+1008,진:contents:books:ratings.xlsx,진,콜 미 바이 유어 네임,평가함 ★ 4.0,books
+1009,진:contents:books:ratings.xlsx,진,일인칭 단수,평가함 ★ 4.0,books
+1010,진:contents:books:ratings.xlsx,진,지구 끝의 온실,평가함 ★ 4.5,books
+1011,진:contents:books:ratings.xlsx,진,도시는 무엇으로 사는가,평가함 ★ 3.5,books
+1012,진:contents:books:ratings.xlsx,진,21세기 먼나라 이웃나라,평가함 ★ 4.0,books
+1013,진:contents:books:ratings.xlsx,진,자기 앞의 생,평가함 ★ 4.0,books
+1014,진:contents:books:ratings.xlsx,진,조제와 호랑이와 물고기들,평가함 ★ 3.5,books
+1015,진:contents:books:ratings.xlsx,진,벌레 이야기,평가함 ★ 4.0,books
+1016,진:contents:books:ratings.xlsx,진,"시선으로부터,",평가함 ★ 3.0,books
+1017,진:contents:books:ratings.xlsx,진,창문 넘어 도망친 100세 노인,평가함 ★ 4.5,books
+1018,진:contents:books:ratings.xlsx,진,웨하스 의자,평가함 ★ 4.5,books
+1019,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,소립자,평가함 ★ 4.5,books
+1020,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,모비 딕,평가함 ★ 3.5,books
+1021,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,열두 띠 이야기,평가함 ★ 3.0,books
+1022,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,현대시작법,평가함 ★ 4.0,books
+1023,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,철학카페에서 시 읽기,평가함 ★ 3.5,books
+1024,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,이별의 능력,평가함 ★ 3.5,books
+1025,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,오늘 아침 단어,평가함 ★ 3.0,books
+1026,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,"어서오세요, 305호에!",평가함 ★ 3.5,books
+1027,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,조국 현상을 말한다 - 개정판,평가함 ★ 2.5,books
+1028,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,몰아 쓴 일기,평가함 ★ 3.0,books
+1029,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,불가능한 대화들,평가함 ★ 3.0,books
+1030,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,황현산의 사소한 부탁,평가함 ★ 3.5,books
+1031,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,서울 1964년 겨울,평가함 ★ 3.0,books
+1032,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,상처적 체질,평가함 ★ 3.0,books
+1033,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,개를 데리고 다니는 부인,평가함 ★ 3.0,books
+1034,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,눈사람 여관,평가함 ★ 3.0,books
+1035,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,선천적 얼간이들,평가함 ★ 3.0,books
+1036,영화고독발버둥치며본다:contents:books:ratings..xlsx,영화고독발버둥치며본다,성,평가함 ★ 3.5,books
